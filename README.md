@@ -249,18 +249,6 @@ Built industrial computer vision systems for carbon-fiber manufacturing.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=youssefhipa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhipa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
-
-</div>
-
----
-
 # 🌐 Let's Connect
 
 I'm interested in building and collaborating on **production AI systems, LLM applications, agentic workflows, computer vision, RAG, and AI automation**.
