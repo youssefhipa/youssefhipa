@@ -8,8 +8,8 @@
 
 Building AI systems that move beyond prototypes into real production environments.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-youssefhipa-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/youssefhipa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-youssefhipa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youssefhipa)
 [![ImmagineAI](https://img.shields.io/badge/ImmagineAI-AI_Automation-000000?style=for-the-badge)](https://immagineai.com)
 
 </div>
@@ -138,7 +138,7 @@ Production computer vision system developed for real-time industrial quality ins
 
 ### Pipeline
 
-`Line-scan acquisition → Image patching → Annotation → Training → Optimization → Real-time inference → Visualization → Database reporting`
+`Line-scan acquisition → Image patching → Annotation �� Training → Optimization → Real-time inference → Visualization → Database reporting`
 
 **Tech:** `YOLOv8` `MobileNetV2` `PyTorch` `OpenCV` `ONNX` `TensorRT` `CUDA` `NVIDIA Jetson`
 
@@ -189,7 +189,7 @@ Built industrial computer vision systems for carbon-fiber manufacturing.
 
 ## 🤖 LLMs, RAG & Agentic AI
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
@@ -202,36 +202,36 @@ Built industrial computer vision systems for carbon-fiber manufacturing.
 
 ## 👁️ Computer Vision & Deep Learning
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
 ## ⚡ Inference & MLOps
 
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge\&logo=onnx\&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## ⚙️ Backend, Data & Cloud
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -253,11 +253,11 @@ Built industrial computer vision systems for carbon-fiber manufacturing.
 
 <div align="center">
 
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefhipa\&show_icons=true\&theme=github_dark\&hide_border=true\&include_all_commits=true)
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefhipa&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhipa\&layout=compact\&theme=github_dark\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhipa&layout=compact&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=youssefhipa\&theme=github-dark-blue\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=youssefhipa&theme=github-dark-blue&hide_border=true)
 
 </div>
 
@@ -267,9 +267,9 @@ Built industrial computer vision systems for carbon-fiber manufacturing.
 
 I'm interested in building and collaborating on **production AI systems, LLM applications, agentic workflows, computer vision, RAG, and AI automation**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/youssefhipa)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youssefhipa)
 
 [![ImmagineAI](https://img.shields.io/badge/ImmagineAI-Visit_Website-000000?style=for-the-badge)](https://immagineai.com)
 
