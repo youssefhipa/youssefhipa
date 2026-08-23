@@ -257,10 +257,6 @@ Built industrial computer vision systems for carbon-fiber manufacturing.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhipa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=youssefhipa&theme=github-dark-blue&hide_border=true" />
-
 </div>
 
 ---
